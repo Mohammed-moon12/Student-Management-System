@@ -186,31 +186,3 @@ while True:
         print(f"PASSED STUDENTS  : {passed_students}")
         print(f"REJECTED STUDENTS: {rejected_students}")
         time.sleep(10)
-                
-        
-
-        
-       
-    
-            
-        
-        
-        
-    
- 
-
-
-
-    
-        
-       
-    
-    
-        
-    
-        
-    
-        
-        
-        
-
